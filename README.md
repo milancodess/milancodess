@@ -66,7 +66,7 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+
   <a href="https://facebook.com/milanxd.py" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="milan-facebook" />
   </a>
@@ -86,8 +86,11 @@
 <h2 align="center"> Visit Site </h2>
 <br>
 <!-- https://milanbhandari.onrender.com/ -->
-<div align="right">
+<div align="center">
 
-![Web](https://milanbhandari.onrender.com/)
-
+</a>
+  <a href="https://milanbhandari.onrender.com/" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/web.png" alt="Website" />
+  </a>
 </div>
+
