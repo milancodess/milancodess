@@ -1,43 +1,41 @@
-<h1>Hi 👋, I'm Milan Bhandari </h1>
-  <img src="https://i.postimg.cc/9MrfFmbD/danCing.gif" alt="Dancing" width="400" />
+<h2> Hi, I'm <a href="https://www.milanb.com.np/">Milan</a><img src="./images/anya.gif" width="30px" height="30px"></h2>
+<br/>
+
+A self-taught developer, passionate about FOSS, and building reliable APIs. I mainly work with JavaScript and Node.js, creating open-source projects and tools that solve real problems. I love learning new technologies and sharing my knowledge with the developer community.
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+- 🌱 I’m currently learning Docker and kubernetes,
+- 💬 Ask me about anything, I am happy to help,
+- 📫 How to reach me: contact@milanb.com.np .
+
+<br/>
+<br/>
+
+🛠️ **Stuffs I use (Languages,Tools and Others):**
+<br/><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+
+📈 **My GitHub Stats:**
+
 <p>
-  Hi, I’m Milan Bhandari — a passionate developer who loves coding, learning new tech, and diving into tech. 
-  Always ready to build cool projects and level up! 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milancodess&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milancodess&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/milancodess" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/milancodess" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/milancodess" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/_milanbhandari_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
-
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milancodess&show_icons=true&locale=en" alt="milancodess" />
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milancodess&theme=dracula" alt="milancodess"/>
+ 
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milancodess&" alt="milancodess" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milancodess&show_icons=true&locale=en&layout=compact" alt="milancodess" />
-</p>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=milancodess" alt="milancodess" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=milancodess&label=Profile%20views&color=0e75b6&style=flat" alt="milancodess" />
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milancodess&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
