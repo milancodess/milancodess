@@ -27,15 +27,17 @@ A self-taught developer, passionate about FOSS, and building reliable APIs. I ma
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 
-📈 **My GitHub Stats:**
+📈 **My GitHub Stats And Trophes:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milancodess&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milancodess&theme=dracula" alt="milancodess" />
+</p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milancodess&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
 <p>
-  
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milancodess&theme=dracula" alt="milancodess"/>
- 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=milancodess&theme=dracula" alt="milancodess" />
+  </a>
 </p>
