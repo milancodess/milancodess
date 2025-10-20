@@ -3,7 +3,7 @@
 
 A self-taught developer, passionate about FOSS, and building reliable APIs. I mainly work with JavaScript and Node.js, creating open-source projects and tools that solve real problems. I love learning new technologies and sharing my knowledge with the developer community.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="./images/anya-belrory-anya.gif" width="30"> A little more about me...
 
 - 🌱 I’m currently learning Docker and kubernetes,
 - 💬 Ask me about anything, I am happy to help,
