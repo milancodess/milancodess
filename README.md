@@ -32,9 +32,11 @@ A self-taught developer, passionate about FOSS, and building reliable APIs. I ma
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milancodess&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
   <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milancodess&theme=dracula" alt="milancodess" />
 </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milancodess&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milancodess&theme=dracula" alt="milancodess" />
 </p>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
