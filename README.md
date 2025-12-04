@@ -39,7 +39,6 @@ A self-taught developer, passionate about FOSS, and building reliable APIs. I ma
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=milancodess&theme=dracula" alt="milancodess" />
   </a>
 </p>
