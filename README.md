@@ -23,10 +23,10 @@ A self-taught developer, passionate about FOSS, and building reliable APIs. I ma
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
-![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+<!-- ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED) -->
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-
+<!--
 📈 **My GitHub Stats And Trophies:**
 
 <p align="center">
@@ -41,4 +41,4 @@ A self-taught developer, passionate about FOSS, and building reliable APIs. I ma
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=milancodess&theme=dracula" alt="milancodess" />
   </a>
-</p>
+</p> -->
