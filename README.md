@@ -23,22 +23,5 @@ A self-taught developer, passionate about FOSS, and building reliable APIs. I ma
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
-<!-- ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED) -->
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-<!--
-📈 **My GitHub Stats And Trophies:**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milancodess&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milancodess&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milancodess&theme=dracula" alt="milancodess" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=milancodess&theme=dracula" alt="milancodess" />
-  </a>
-</p> -->
